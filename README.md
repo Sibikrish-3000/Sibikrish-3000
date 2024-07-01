@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on MLOps
 - 📫 How to reach me [email me](mailto:sibikrish2005@gmail.com)
-- 😄 Pronouns: batman
+- 😄 Pronouns: im batman
 - ⚡ Fun fact: im not good at python
 
 <!---
