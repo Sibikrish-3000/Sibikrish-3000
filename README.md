@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and artificial intelligence 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on MLOps
-- 📫 How to reach me [emailme](emailto:sibikrish2005@gmail.com)
+- 📫 How to reach me [emailme] (emailto:sibikrish2005@gmail.com)
 - 😄 Pronouns: batman
 - ⚡ Fun fact: im not good at python
 
